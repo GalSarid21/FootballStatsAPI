@@ -16,7 +16,7 @@ class Migration(migrations.Migration):
             fields=[
                 ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),
                 ('full_name', models.CharField(max_length=50)),
-                ('net_woth', models.PositiveBigIntegerField()),
+                ('net_worth', models.PositiveBigIntegerField()),
                 ('currency', models.CharField(max_length=5)),
                 ('nationality', models.CharField(max_length=20)),
                 ('other_professions', models.CharField(max_length=50)),

@@ -1,0 +1,352 @@
+[
+    {
+        "full_name": "Christiano Ronaldo",
+        "net_worth": 500000000,
+        "currency": "$",
+        "nationality": "Portuguese",
+        "other_professions": "Football player, Fashion entrepreneur"
+    },
+    {
+        "full_name": "David Beckam",
+        "net_worth": 450000000,
+        "currency": "$",
+        "nationality": "British",
+        "other_professions": "Model, Athlete, Actor, Soccer Player"
+    },
+    {
+        "full_name": "Lionel Messi",
+        "net_worth": 400000000,
+        "currency": "$",
+        "nationality": "Argentinian",
+        "other_professions": "Football player"
+    },
+    {
+        "full_name": "Dave Welan",
+        "net_worth": 210000000,
+        "currency": "$",
+        "nationality": "British",
+        "other_professions": "Businessperson, Football player"
+    },
+    {
+        "full_name": "Neymar",
+        "net_worth": 200000000,
+        "currency": "$",
+        "nationality": "Brazilian",
+        "other_professions": "Football player"
+    },
+    {
+        "full_name": "Zlatan Ibrahimovic",
+        "net_worth": 190000000,
+        "currency": "$",
+        "nationality": "Swidish",
+        "other_professions": "Businessperson, Football player"
+    },
+    {
+        "full_name": "Wayne Rooney",
+        "net_worth": 170000000,
+        "currency": "$",
+        "nationality": "British",
+        "other_professions": "Football player, Soccer Player"
+    },
+    {
+        "full_name": "Ronaldo",
+        "net_worth": 170000000,
+        "currency": "$",
+        "nationality": "Brazilian",
+        "other_professions": "Football player, Actor"
+    },
+    {
+        "full_name": "Gareth Bale",
+        "net_worth": 145000000,
+        "currency": "$",
+        "nationality": "British",
+        "other_professions": "Football player"
+    },
+    {
+        "full_name": "Thiery Henry",
+        "net_worth": 130000000,
+        "currency": "$",
+        "nationality": "French",
+        "other_professions": "Football player"
+    },
+    {
+        "full_name": "Paul Pogba",
+        "net_worth": 125000000,
+        "currency": "$",
+        "nationality": "French",
+        "other_professions": "Football player"
+    },
+    {
+        "full_name": "Andres Iniesta",
+        "net_worth": 120000000,
+        "currency": "$",
+        "nationality": "Spanish",
+        "other_professions": "Football player"
+    },
+    {
+        "full_name": "Jose Murinho",
+        "net_worth": 120000000,
+        "currency": "$",
+        "nationality": "Portuguese",
+        "other_professions": "Football player, Coach, Manager"
+    },
+    {
+        "full_name": "Mesut Ozil",
+        "net_worth": 120000000,
+        "currency": "$",
+        "nationality": "German",
+        "other_professions": "Football player"
+    },
+    {
+        "full_name": "Zinedine Zidane",
+        "net_worth": 120000000,
+        "currency": "$",
+        "nationality": "French",
+        "other_professions": "Former football player, Coach, Manager"
+    },
+    {
+        "full_name": "Eden Hazard",
+        "net_worth": 100000000,
+        "currency": "$",
+        "nationality": "Belgian",
+        "other_professions": "Football player"
+    },
+    {
+        "full_name": "Pele",
+        "net_worth": 100000000,
+        "currency": "$",
+        "nationality": "Brazilian",
+        "other_professions": "Actor, Football player, Film Producer"
+    },
+    {
+        "full_name": "Philipp Lahm",
+        "net_worth": 100000000,
+        "currency": "$",
+        "nationality": "German",
+        "other_professions": "Football player"
+    },
+    {
+        "full_name": "Raul Gonzalez Blanco",
+        "net_worth": 100000000,
+        "currency": "$",
+        "nationality": "Spanish",
+        "other_professions": "Former football player"
+    },
+    {
+        "full_name": "Kylian Mbappe",
+        "net_worth": 95000000,
+        "currency": "$",
+        "nationality": "French",
+        "other_professions": "Football player"
+    },
+    {
+        "full_name": "Samuel Eto' o",
+        "net_worth": 95000000,
+        "currency": "$",
+        "nationality": "Cameroonian",
+        "other_professions": "Football player"
+    },
+    {
+        "full_name": "Didier Drogba",
+        "net_worth": 90000000,
+        "currency": "$",
+        "nationality": "Ivory Coast",
+        "other_professions": "Football player"
+    },
+    {
+        "full_name": "Fabio Capello",
+        "net_worth": 90000000,
+        "currency": "$",
+        "nationality": "Italian",
+        "other_professions": "Coach, Soccer Player"
+    },
+    {
+        "full_name": "Fernando Torres",
+        "net_worth": 90000000,
+        "currency": "$",
+        "nationality": "Spanish",
+        "other_professions": "Soccer Player"
+    },
+    {
+        "full_name": "Frank Lampard",
+        "net_worth": 90000000,
+        "currency": "$",
+        "nationality": "British",
+        "other_professions": "Football player, Soccer Player"
+    },
+    {
+        "full_name": "Kaka",
+        "net_worth": 90000000,
+        "currency": "$",
+        "nationality": "Brazilian",
+        "other_professions": "Football player"
+    },
+    {
+        "full_name": "Mohamed Salah",
+        "net_worth": 90000000,
+        "currency": "$",
+        "nationality": "Egypt",
+        "other_professions": "Football player"
+    },
+    {
+        "full_name": "Ronaldinho",
+        "net_worth": 90000000,
+        "currency": "$",
+        "nationality": "Brazilian",
+        "other_professions": "Football player"
+    },
+    {
+        "full_name": "Steven Gerrard",
+        "net_worth": 90000000,
+        "currency": "$",
+        "nationality": "British",
+        "other_professions": "Soccer Player"
+    },
+    {
+        "full_name": "Robert Lewandowski",
+        "net_worth": 85000000,
+        "currency": "$",
+        "nationality": "Polish",
+        "other_professions": "Soccer Player"
+    },
+    {
+        "full_name": "Arjen Roben",
+        "net_worth": 80000000,
+        "currency": "$",
+        "nationality": "Dutch",
+        "other_professions": "Football player"
+    },
+    {
+        "full_name": "Bastian Schweinsteiger",
+        "net_worth": 80000000,
+        "currency": "$",
+        "nationality": "German",
+        "other_professions": "Football player"
+    },
+    {
+        "full_name": "Gerard Pique",
+        "net_worth": 80000000,
+        "currency": "$",
+        "nationality": "Spanish",
+        "other_professions": "Football player, Soccer Player"
+    },
+    {
+        "full_name": "Mario Balotelli",
+        "net_worth": 80000000,
+        "currency": "$",
+        "nationality": "Italian",
+        "other_professions": "Football player"
+    },
+    {
+        "full_name": "Sergio Aguero",
+        "net_worth": 80000000,
+        "currency": "$",
+        "nationality": "Argentinian",
+        "other_professions": "Football player"
+    },
+    {
+        "full_name": "Sergio Ramos",
+        "net_worth": 80000000,
+        "currency": "$",
+        "nationality": "Spanish",
+        "other_professions": "Football player"
+    },
+    {
+        "full_name": "David de Gea",
+        "net_worth": 75000000,
+        "currency": "$",
+        "nationality": "Spanish",
+        "other_professions": "Football player"
+    },
+    {
+        "full_name": "Rio Ferdinand",
+        "net_worth": 75000000,
+        "currency": "$",
+        "nationality": "British",
+        "other_professions": "Football player"
+    },
+    {
+        "full_name": "Frank Ribery",
+        "net_worth": 70000000,
+        "currency": "$",
+        "nationality": "French",
+        "other_professions": "Football player"
+    },
+    {
+        "full_name": "Hulk",
+        "net_worth": 70000000,
+        "currency": "$",
+        "nationality": "Brazilian",
+        "other_professions": "Football player"
+    },
+    {
+        "full_name": "John Terry",
+        "net_worth": 70000000,
+        "currency": "$",
+        "nationality": "British",
+        "other_professions": "Football player"
+    },
+    {
+        "full_name": "Luis Suarez",
+        "net_worth": 70000000,
+        "currency": "$",
+        "nationality": "Uruguay",
+        "other_professions": "Football player"
+    },
+    {
+        "full_name": "Oscar",
+        "net_worth": 70000000,
+        "currency": "$",
+        "nationality": "Brazilian",
+        "other_professions": "Football player"
+    },
+    {
+        "full_name": "Radamel Falcao",
+        "net_worth": 70000000,
+        "currency": "$",
+        "nationality": "Colombian",
+        "other_professions": "Football player"
+    },
+    {
+        "full_name": "Sir Alex Ferguson",
+        "net_worth": 70000000,
+        "currency": "$",
+        "nationality": "British",
+        "other_professions": "Coach, Manager, former football player"
+    },
+    {
+        "full_name": "Yaya Toure",
+        "net_worth": 70000000,
+        "currency": "$",
+        "nationality": "Ivory Coast",
+        "other_professions": "Coach, Manager, former football player"
+    },
+    {
+        "full_name": "Antoine Griezmann",
+        "net_worth": 60000000,
+        "currency": "$",
+        "nationality": "French",
+        "other_professions": "Football player"
+    },
+    {
+        "full_name": "Dani Alves",
+        "net_worth": 60000000,
+        "currency": "$",
+        "nationality": "Brazilian",
+        "other_professions": "Football player"
+    },
+    {
+        "full_name": "Robinho",
+        "net_worth": 60000000,
+        "currency": "$",
+        "nationality": "Brazilian",
+        "other_professions": "Football player"
+    },
+    {
+        "full_name": "Ryan Giggs",
+        "net_worth": 60000000,
+        "currency": "$",
+        "nationality": "British",
+        "other_professions": "Former football player"
+    }
+]
