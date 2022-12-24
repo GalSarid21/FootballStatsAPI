@@ -9,3 +9,7 @@ A rest api which provides football related data.
 
         NOTE: a json file with initial DB values is attached in -  
               footballer_financial_data --> examples --> add_all.json
+
+        4. make footballer/add/ call with the add_all.json data
+        5. Run python manage.py migrate one more time
+        6. make footballer/all/ to make sure all the data is in the DB
