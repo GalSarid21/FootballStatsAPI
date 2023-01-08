@@ -1,5 +1,6 @@
 # FootballStats API
 A rest api which provides football related data.
+Built with Django framework.
 
 # FootballerFinancialData API QuickStart
     In order to run this project successfully, please follow the next steps:
