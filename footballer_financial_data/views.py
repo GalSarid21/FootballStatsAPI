@@ -70,7 +70,7 @@ def update(request, id):
     try:
         footballer = DbAccessFunctions.update_footballer(serializer.validated_data, id, is_input_partial)
         serializer = FootballerFinancialDataSerializer(footballer)
-        return Response(serializer, status=status.HTTP_200_OK)
+        return Response(serializer.data, status=status.HTTP_200_OK)
     except Exception as e:
         return Response(status=status.HTTP_500_INTERNAL_SERVER_ERROR)
 
